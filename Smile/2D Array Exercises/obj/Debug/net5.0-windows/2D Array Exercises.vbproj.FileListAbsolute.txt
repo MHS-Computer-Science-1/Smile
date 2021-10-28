@@ -1,0 +1,18 @@
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\2D Array Exercises.exe
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\2D Array Exercises.deps.json
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\2D Array Exercises.runtimeconfig.json
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\2D Array Exercises.runtimeconfig.dev.json
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\2D Array Exercises.dll
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\ref\2D Array Exercises.dll
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\bin\Debug\net5.0-windows\2D Array Exercises.pdb
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.vbprojAssemblyReference.cache
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\_2D_Array_Exercises.Form1.resources
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.dll
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\ref\2D Array Exercises.dll
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.pdb
+G:\My Drive\Courses\CS1\08 Arrays\2D Array Exercises\2D Array Exercises\obj\Debug\net5.0-windows\2D Array Exercises.genruntimeconfig.cache
