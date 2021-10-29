@@ -7,9 +7,9 @@
         '3. Set every element to 1 using loops
 
 
-        '4. Run the app, verify that 8s are now displayed
+        '4. Run the app, verify that 1s are now displayed
 
-        '5. Now, set some of the elements to 1 to create a smiley face
+        '5. Now, set some of the elements to 8 to create a smiley face
         '   as shown in the lab description
 
 
