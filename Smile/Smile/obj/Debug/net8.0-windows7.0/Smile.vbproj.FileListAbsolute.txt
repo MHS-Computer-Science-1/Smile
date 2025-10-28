@@ -1,0 +1,17 @@
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.Form1.resources
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.sourcelink.json
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\bin\Debug\net8.0-windows7.0\Smile.exe
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\bin\Debug\net8.0-windows7.0\Smile.deps.json
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\bin\Debug\net8.0-windows7.0\Smile.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\bin\Debug\net8.0-windows7.0\Smile.dll
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\bin\Debug\net8.0-windows7.0\Smile.pdb
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.dll
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\refint\Smile.dll
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.pdb
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\Smile.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Smile\Smile\Smile\obj\Debug\net8.0-windows7.0\ref\Smile.dll
